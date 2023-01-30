@@ -1,2 +1,3 @@
 # JChess-Engine
-It is a simple java chess engine but its GUI is still incomplete
+It is one(player) to one(player) Chess Engine.
+I build this for my Data Structure project, also used JavaFx for GUI
